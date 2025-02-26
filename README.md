@@ -13,7 +13,7 @@ PumpBit is a comprehensive crypto trading platform designed to facilitate perpet
   </tr>
   <tr>
     <td align = "center">    
-      <video src="./assets/perpetual_crypto_trading.gif" autoplay loop muted/>      
+      <img src="./assets/perpetual_crypto_trading.gif" />      
     </td>
   </tr>
 </table>
