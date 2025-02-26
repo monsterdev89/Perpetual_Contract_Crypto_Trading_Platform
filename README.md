@@ -7,7 +7,7 @@ PumpBit is a comprehensive crypto trading platform designed to facilitate perpet
 
 ------------
 
-## Connect with Us
+## Social
 - [Follow us on Twitter](https://twitter.com/MerlinFutures_)
 - [Join our Discord](https://discord.gg/7urJ9Yuczb)
   
