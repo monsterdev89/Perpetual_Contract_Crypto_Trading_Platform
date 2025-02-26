@@ -5,6 +5,12 @@
 
 PumpBit is a comprehensive crypto trading platform designed to facilitate perpetual contract trading on the B2 network and offer a staking feature for liquidity pools. The platform is built using Next.js for the frontend, Node.js for the backend, and utilizes Hardhat for smart contract development. The backend integrates with the Binance API to fetch real-time cryptocurrency prices.
 
+------------
+
+## Connect with Us
+- [Follow us on Twitter](https://twitter.com/MerlinFutures_)
+- [Join our Discord](https://discord.gg/7urJ9Yuczb)
+  
 <table>
   <tr>
     <td align = "center">    
